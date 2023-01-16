@@ -1,0 +1,3 @@
+# ignore epub setting files
+*.opt
+*.epub
